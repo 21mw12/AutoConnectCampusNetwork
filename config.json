@@ -1,0 +1,8 @@
+{
+    "User": {
+        "StudentNumber": "XXXX",
+        "Password": "XXXX"
+    },
+    "SleepTime": 3600,
+    "LogPath": "F:\\"
+}
